@@ -2,6 +2,8 @@
 I am Clement from Nigieria. Am a front end developer and an engineer.
 you can check on of my  project clementigbinoba.github.io/Counter/
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clementigbinoba)](https://github.com/anuraghazra/github-readme-stats)
+
 
 #### Comment about me
 
