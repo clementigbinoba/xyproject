@@ -2,4 +2,4 @@
 
 #### Comment about me
 
-![ackbar](https://user-images.githubusercontent.com/108894960/187095156-f6bb310d-ebf2-45d4-8acc-abb78223facf.gif)
+![star](https://user-images.githubusercontent.com/108894960/187095217-77708805-b7da-4e64-b2f8-1ff6fbcf7ead.jpg)
