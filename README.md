@@ -1,4 +1,6 @@
-#### Hi there <img src = " ![h](https://user-images.githubusercontent.com/108894960/187095826-83353094-489c-4faf-8d68-901e2d3a2458.jpg)"/>
+#### Hi there.
+I am Clement from Nigieria. Am a front end developer and an engineer.
+you can check on of my  project clementigbinoba.github.io/Counter/
 
 
 #### Comment about me
