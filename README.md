@@ -1,7 +1,7 @@
 #### Hi there.
 I am Clement from Nigieria. Am a front end developer and an engineer.  
- https://gpvc.arturio.dev/clementigbinoba/xyproject 
-you can check on of my  project clementigbinoba/xyproject         
+ https://gpvc.arturio.dev/clementigbinoba
+you can check on of my  project clementigbinoba/xyproject       
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clementigbinoba)](https://github.com/anuraghazra/github-readme-stats)
 
